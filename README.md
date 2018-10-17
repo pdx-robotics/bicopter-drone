@@ -9,6 +9,6 @@ The first step is to get the thing built and flying. The second step is to get i
 
 Currently we are designing the parts in our various CAD programs and assembling the entire thing on OnShape. The link to our full assembly is [here](http://onshape.com "OnShape assembly").
 
-The code/firmware will be compiled with Mission Planner of the [Ardupilot project](http://ardupilot.org/planner/ ("Misson Planner Home")
+The code/firmware will be compiled with Mission Planner of the [Ardupilot project](http://ardupilot.org/planner/ "Misson Planner Home")
 
 This is only a bare-bones readme. Will update it as the project goes on! 
