@@ -12,3 +12,9 @@ Currently we are designing the parts in our various CAD programs and assembling 
 The code/firmware will be compiled with Mission Planner of the [Ardupilot project](http://ardupilot.org/planner/ "Misson Planner Home")
 
 This is only a bare-bones readme. Will update it as the project goes on! 
+
+NEXT STEP IN THE PROJECT: 
+
+The next step is to connect all the existing electronics and see if they respond to tilts, rolls, remote commands and etc. 
+
+If they do, we will work on making and printing up the frame! 
