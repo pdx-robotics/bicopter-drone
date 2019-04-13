@@ -6,9 +6,7 @@ Another one can be [seen here](https://www.youtube.com/watch?v=Ot3Em2lI9y8 "Bico
 
 The first step is to get the thing built and flying. The second step is to get it waterproofed and swimming. But one thing at a time! 
 
-Currently, we have a Lexan frame we cut at the Electronics Prototyping Lab that we will begin mounting electronics to shortly. We will use this to test hardware functionality as well as get in a few flights! We are calling it the "squidcopter" because it resembles a squid when first coming from the laser cutter. 
-
-Next, we are designing the parts in our various CAD programs and assembling the entire thing on OnShape. We will 3D print them and assemble a more "polished" bicopter. The link to our full assembly is [here](http://onshape.com "OnShape assembly").
+Currently, we are assembling our 3D printed frame. We are also assembling the electronics (power distribution board, PixHawk, ESCs, rotors, and digital servos). Once we have these things working in harmony, we will begin test flights. 
 
 The code/firmware will be compiled with Mission Planner of the [Ardupilot project](http://ardupilot.org/planner/ "Misson Planner Home")
 
